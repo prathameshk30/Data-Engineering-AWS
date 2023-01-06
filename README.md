@@ -6,3 +6,9 @@ Built lake house architectural design using AWS S3 in layers, and Glue for data 
 
 
 ![Data Architecture](https://user-images.githubusercontent.com/89546195/209451926-a813e614-5cc4-4c62-9cb4-47a86d813705.jpg)
+
+
+# Dashboard:- 
+
+<img width="481" alt="image" src="https://user-images.githubusercontent.com/89546195/211111167-183f7524-4447-4c5d-a741-4d22aa106350.png">
+
